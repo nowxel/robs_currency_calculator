@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958399757232",
+    "firebase_url": "https://wedge-545c8.firebaseio.com",
+    "project_id": "wedge-545c8",
+    "storage_bucket": "wedge-545c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958399757232:android:ef87c6ae3d48da2c67f475",
+        "android_client_info": {
+          "package_name": "com.boluga.businesscalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958399757232-lfee1keu3j3vfiachir2i6ulbujl4351.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3fEV66k1dCQ1v1HTNgEPVQnmEQdPANM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958399757232-lfee1keu3j3vfiachir2i6ulbujl4351.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958399757232-dj3q5vu9fdsstsbbav66r9cfkfb8r241.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boluga.businesscalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
